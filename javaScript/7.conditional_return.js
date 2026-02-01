@@ -1,5 +1,5 @@
 
-// even number check
+
 function evenNumber(num) {
     if (num % 2 !== 1) {   // evenNumber check alternative syntax
         return true;
